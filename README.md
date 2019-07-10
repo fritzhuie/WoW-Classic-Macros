@@ -1,9 +1,5 @@
 # WoW-Classic-Macros
-Repository for Macros that work in Classic WoW
-
-
-### General Macros
-
+Repository for Classic WoW Macros 
 
 ### Hunter Macros
 
