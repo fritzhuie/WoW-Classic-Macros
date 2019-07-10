@@ -66,7 +66,7 @@ Repository for Classic WoW Macros
 /cast Track Humanoids
 ```
 
-##### Clickable Beat Spells
+##### Clickable Beast Spells
 ```#showtooltip
 /cast [mod:shift] Eagle Eye
 /cast [mod:ctrl] Eyes of the Beast
