@@ -27,10 +27,11 @@ Repository for Classic WoW Macros
 
 ##### Lazy farm
 ```
+/cleartarget
 /targetenemy [noharm]
-/castsequence reset=8 Hunter's Mark, Serpent Sting, Arcane Shot, Multi-Shot
 /petattack
 /cast !Auto Shot
+/castsequence reset=8 Hunter's Mark, Serpent Sting, Arcane Shot, Multi-Shot
 ```
 
 ##### Revive & Feed Pet
