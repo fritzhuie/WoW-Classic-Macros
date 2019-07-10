@@ -14,7 +14,8 @@ Repository for Classic WoW Macros
 ```#showtooltip
 /petpassive
 /cast [combat] Feign Death
-/cast Freezing Trap```
+/cast Freezing Trap
+```
 
 ##### Lazy engage
 ```/cast Hunter's Mark
