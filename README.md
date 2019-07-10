@@ -11,56 +11,65 @@ Repository for Classic WoW Macros
 ```
 
 ##### Feign & trap
-```#showtooltip
+```
+#showtooltip
 /petpassive
 /cast [combat] Feign Death
 /cast Freezing Trap
 ```
 
 ##### Lazy engage
-```/cast Hunter's Mark
+```
+/cast Hunter's Mark
 /petattack
 /cast !Auto Shot
 ```
 
 ##### Lazy farm
-```/targetenemy [noharm]
+```
+/targetenemy [noharm]
 /castsequence reset=8 Hunter's Mark, Serpent Sting, Arcane Shot, Multi-Shot
 /petattack
 /cast !Auto Shot
 ```
 
 ##### Revive & Feed Pet
-```#showtooltip
+```
+#showtooltip
 /cast [@pet,nodead] Feed Pet; Revive Pet;
 /use [@pet,nodead] Wild Hog Shank
 ```
 
 ##### Call & Heal Pet
-```#showtooltip
+```
+#showtooltip
 /cast [nopet] Call Pet; Mend Pet
 ```
 
 ##### Auto Shot
-```#showtooltip
+```
+#showtooltip
 /stopcast
 /cast !Auto Shot
 ```
 
 ##### DPS Burst
-```/cast Berserking(Racial)
+```
+/cast Berserking(Racial)
 /cast Rapid Fire
 ```
 
 ##### Trap out of combat, Melee in combat
-```#showtooltip
+```
+#showtooltip
 /cast Immolation Trap
 /cast Mongoose Bite
 /cast Raptor Strike
 ```
 
 ##### Clickable Track Spells
-```#showtooltip
+```
+#showtooltip
 /cast [mod:shift] Track Beasts
 /cast [mod:ctrl] Track Hidden
 /cast [mod:alt] Track Undead
@@ -68,7 +77,8 @@ Repository for Classic WoW Macros
 ```
 
 ##### Clickable Beast Spells
-```#showtooltip
+```
+#showtooltip
 /cast [mod:shift] Eagle Eye
 /cast [mod:ctrl] Eyes of the Beast
 /cast [mod:alt] Beast Lore
