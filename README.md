@@ -3,62 +3,62 @@ Repository for Classic WoW Macros
 
 ### Hunter Macros
 
-Pet Control
+##### Pet Control
 ```
 /petattack
 
 /petpassive
 ```
 
-*Feign & trap*
+##### Feign & trap
 ```#showtooltip
 /petpassive
 /cast [combat] Feign Death
 /cast Freezing Trap```
 
-Lazy engage
+##### Lazy engage
 ```/cast Hunter's Mark
 /petattack
 /cast !Auto Shot
 ```
 
-Lazy farm
+##### Lazy farm
 ```/targetenemy [noharm]
 /castsequence reset=8 Hunter's Mark, Serpent Sting, Arcane Shot, Multi-Shot
 /petattack
 /cast !Auto Shot
 ```
 
-Revive & Feed Pet
+##### Revive & Feed Pet
 ```#showtooltip
 /cast [@pet,nodead] Feed Pet; Revive Pet;
 /use [@pet,nodead] Wild Hog Shank
 ```
 
-Call & Heal Pet
+##### Call & Heal Pet
 ```#showtooltip
 /cast [nopet] Call Pet; Mend Pet
 ```
 
-Auto Shot
+##### Auto Shot
 ```#showtooltip
 /stopcast
 /cast !Auto Shot
 ```
 
-DPS Burst
+##### DPS Burst
 ```/cast Berserking(Racial)
 /cast Rapid Fire
 ```
 
-Trap out of combat, Melee in combat
+##### Trap out of combat, Melee in combat
 ```#showtooltip
 /cast Immolation Trap
 /cast Mongoose Bite
 /cast Raptor Strike
 ```
 
-Clickable Track Spells
+##### Clickable Track Spells
 ```#showtooltip
 /cast [mod:shift] Track Beasts
 /cast [mod:ctrl] Track Hidden
@@ -66,7 +66,7 @@ Clickable Track Spells
 /cast Track Humanoids
 ```
 
-Clickable Beat Spells
+##### Clickable Beat Spells
 ```#showtooltip
 /cast [mod:shift] Eagle Eye
 /cast [mod:ctrl] Eyes of the Beast
