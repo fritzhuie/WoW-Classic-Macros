@@ -10,7 +10,7 @@ Pet Control
 /petpassive
 ```
 
-Feign & trap
+*Feign & trap*
 ```#showtooltip
 /petpassive
 /cast [combat] Feign Death
